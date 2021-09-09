@@ -15,8 +15,8 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-  logo: Logo.png
-  favicon: Logo.png
+  logo: Logotransparent.png
+  favicon: Logotransparent.png
   palette:
   - media: "(prefers-color-scheme: light)"
     scheme: default
