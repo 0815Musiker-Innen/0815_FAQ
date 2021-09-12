@@ -5,7 +5,7 @@
 !!! important "IP Adresse:"
     192.168.2.13
 
-- Es gibt eine [analoge Stagebox](/devices/#analoge-stagebox) und Kabelpeitschen
+- Es gibt eine [analoge Stagebox](../devices/#analoge-stagebox) und Kabelpeitschen
 - Ein [Mehrfachkopfhörerverstärker](/devices/#kopfhorervestarker) ist im Einsatz
 
 ## Verkabelung
