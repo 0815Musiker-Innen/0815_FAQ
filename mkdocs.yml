@@ -1,0 +1,51 @@
+site_name: FAQ-Overview
+
+nav:
+  - Welcome: index.md
+  - Aufbau: Aufbau.md
+  - Selber machen: diy.md
+  - Versionsverwaltung: git.md
+theme:
+  name: material
+  features:
+    - header.autohide
+    - navigation.instant
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+  logo: Logotransparent.png
+  favicon: Logotransparent.png
+  palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    #primary: green
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    #primary: lime
+    toggle:
+      icon: material/lightbulb
+      name: Switch to light mode
+markdown_extensions:
+  - attr_list
+  - pymdownx.critic
+  - admonition
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://www.youtube.com/watch?v=dQw4w9WgXcQ #Vanity-URL für den Discord Server erstellen
+      name: Discord
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<felix.schwemlein@gmail.com>
+      name: Mail to Felix
+    - icon: fontawesome/brands/github
+      link: https://github.com/mastaschief/McBootyMixingSite
+      name: Github
+
+extra_css:
+  - stylesheets/extra.css
