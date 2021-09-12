@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# 0815_FAQ
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+!!! success
+    Hi, herzlich Willkommen auf der FAQ Seite von Max Mustermann & die 0815 Musiker*innen e.V.  
+Hier findest du vor allen Dingen Infos zur Technik. Dies umfasst die Verkabelung, Geräte aber auch die Bedienung der Software.  
 
-## Commands
+## Themengebiete
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* [Verkabelung](../Cable_management/docs/index.md)
+* [Geräte](../Devices/docs/index.md)
+* [MischpultSoftware](../XSoftware/docs/index.md)
+* [Licht](../Light/docs/index.md)
 
-## Project layout
+## Ďą ՑtiMmt wa$ nḯchᵻ
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! bug
+    "Es heißt seid, nicht seidt und mir fehlt auch noch die Info wo ich meine Jacke ablegen kann :( "  
+    Da scheint sich ein Fehler eingeschlichen zu haben. [Hier](diy.md) findest du Infos wie du am besten Fehler und Ergänzungen weitergeben kannst. Und [hier](Aufbau.md) wird dir erklärt wie die FAQ funktioniert.  
