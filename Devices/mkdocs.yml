@@ -2,10 +2,11 @@ site_name: Geräte
 
 nav:
   - Übersicht: index.md
-  - Mischpulte: dummy.md
-  - Stageboxen: dummy.md
-  - Pcs: dummy.md
-  - Pis: dummy.md
+  - Mischpulte: mixer.md
+  - Stageboxen: stagebox.md
+  - Kopfhörerverstärker: headamp.md
+  - Pcs: pc.md
+  - Pis: pi.md
 theme:
   name: material
   features:
