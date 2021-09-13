@@ -5,8 +5,8 @@ nav:
   - Mischpulte: mixer.md
   - Stageboxen: stagebox.md
   - Kopfhörerverstärker: headamp.md
-  - Pcs: pc.md
-  - Pis: pi.md
+  - Pc's: pc.md
+  - Pi's: pi.md
 theme:
   name: material
   features:
@@ -36,6 +36,7 @@ markdown_extensions:
   - attr_list
   - pymdownx.critic
   - admonition
+  - pymdownx.tabbed
 
 extra:
   social:
