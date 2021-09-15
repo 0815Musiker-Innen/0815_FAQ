@@ -2,7 +2,7 @@
 
 ## Kopfhörervestärker
 
-[![Kopfhörerverstärker_Bild](../../images/headphones_amp.jpg "Kopfhörerverstärker")](https://www.musicstore.de/de_DE/EUR/Fame-Audio-HPA-6000/art-REC0011279-000)
+[![Kopfhörerverstärker_Bild](../images/headphones_amp.jpg "Kopfhörerverstärker")](https://www.musicstore.de/de_DE/EUR/Fame-Audio-HPA-6000/art-REC0011279-000)
 
 ### HA_INPUT
 

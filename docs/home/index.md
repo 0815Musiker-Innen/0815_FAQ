@@ -6,13 +6,13 @@ Hier findest du vor allen Dingen Infos zur Technik. Dies umfasst die Verkabelung
 
 ## Themengebiete
 
-* [Verkabelung](../Cable_management/docs/index.md)
-* [Geräte](../Devices/docs/index.md)
-* [MischpultSoftware](../XSoftware/docs/index.md)
-* [Licht](../Light/docs/index.md)
+* [Verkabelung](../cable/index.md)
+* [Geräte](../devices/index.md)
+* [MischpultSoftware](../xSoftware/index.md)
+* [Licht](../light/index.md)
 
 ## Ďą ՑtiMmt wa$ nḯchᵻ
 
 !!! bug
     "Es heißt seid, nicht seidt und mir fehlt auch noch die Info wo ich meine Jacke ablegen kann :( "  
-    Da scheint sich ein Fehler eingeschlichen zu haben. [Hier](diy.md) findest du Infos wie du am besten Fehler und Ergänzungen weitergeben kannst. Und [hier](Aufbau.md) wird dir erklärt wie die FAQ funktioniert.  
+    Da scheint sich ein Fehler eingeschlichen zu haben. [Hier](diy.md) findest du Infos wie du am besten Fehler und Ergänzungen weitergeben kannst. Und [hier](aufbau.md) wird dir erklärt wie die FAQ funktioniert.  

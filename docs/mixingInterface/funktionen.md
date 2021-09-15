@@ -9,7 +9,7 @@
 
 ## Top der Seite  
 
-![Hier sollte ein Bild sein](images/Top.png "Top/Header")
+![Hier sollte ein Bild sein](../images/Top.png "Top/Header")
 
 - "Pi1" dient als Platzhalter zur Darstellung des gewählten Endgeräts. Beispiele sind: "Pi1", "Ar-Pc", etc.  
 - Die erste LED zeigt den aktuellen Status an (wird vermutlich noch ersetzt)  
@@ -20,7 +20,7 @@
 
 Dieses Feld ist für allgemeine Einstellungen da.
 
-![Hier sollte ein Bild sein](images/Settings.png "Settings")  
+![Hier sollte ein Bild sein](../images/Settings.png "Settings")  
 
 - "Username": Trage hier bitte deinen Klarnamen ein. Andere Nutzer können "Klaus-Peter" besser zuordnen als "Honey-Badger93".
 - "Input 1": Trage hier bitte das Instrument, z.B. Gesang oder Gitarre, ein das am {++ersten++} Input/Eingang eures Interfaces steckt.
@@ -39,13 +39,13 @@ Dieses Feld ist für allgemeine Einstellungen da.
 
 Hier kannst du die Einstellungen für Lautstärken und Stereopanning vornehmen.
 
-![Hier sollte ein Bild sein](images/Panel.png "Panel")  
+![Hier sollte ein Bild sein](../images/Panel.png "Panel")  
 
 - "No 1": Dient als Platzhalter hier wird das Gerät des jeweiligen Users angezeigt
 - "Username": Hier wird der Username des entsprechenden Gerätenutzers angezeigt
 
 Ein Channelstrip im Detail:
-![Hier sollte ein Bild sein](images/Strip.png "Channelstrip")
+![Hier sollte ein Bild sein](../images/Strip.png "Channelstrip")
 
 - "Modep": Bezeichnet das Instrument. Falls der entsprechende Nutzer in "Input 1"/"Input 2" etwas eingetragen hat wird dies hier angezeigt.
 - "kleiner/erster Fader": Dieser ist für das Panning des jeweiligen Instruments zuständig. Analog zum Bild funktionieren diese von links nach rechts. Die Mitte ergibt ein neutrals links/rechts Verhältnis

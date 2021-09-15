@@ -21,9 +21,6 @@ Wenn ihr euch in die Gestaltung der FAQ miteinbringen möchtet, lest euch bitte 
 
 Die wahrscheinlich wichtigste Funktion auf der Seite. Diese findet ihr oben rechts ![SUFU](../images/suchfunktion.png)
 
-!!! info
-    Die Suchfunktion kann leider nicht verscheiden Themengebiete durchsuchen.  
-
 ### Erscheinungsbild
 
 Einfach mal ausprobieren

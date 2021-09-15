@@ -1,5 +1,5 @@
 site_name: My Docs
-
+site_url: http://localhost:8000/comment
 nav:
   - Home:
     - Index: home/index.md
@@ -34,7 +34,9 @@ theme:
   features:
     - header.autohide
     - navigation.instant
+    - navigation.tracking
     - navigation.top
+    - navigation.tabs
     - toc.integrate
     - search.suggest
     - search.highlight

@@ -5,7 +5,10 @@
 
 ## X32 Rack
 
-[![X32_Bild](../../images/X32.jpg "X32")](https://www.behringer.com/behringer/product?modelCode=P0AWN)
+!!! important "IP-Adresse"
+    192.168.2.12
+
+[![X32_Bild](../images/X32.jpg "X32")](https://www.behringer.com/behringer/product?modelCode=P0AWN)
 Das X32 dient sowohl als Mischpult, als auch als Audiointerface.
 Die Bedienung ist am Gerät selbst(im Verein nicht genutzt) und über Software möglich:
 
@@ -24,7 +27,10 @@ Die Bedienung ist am Gerät selbst(im Verein nicht genutzt) und über Software m
 
 ## XR18
 
-[![XR18_Bild](../../docs/images/XR18_small.jpg "XR18"){ align=right }](https://www.thomann.de/de/behringer_x_air_xr18.htm)
+!!! important "IP-Adresse"
+    192.168.2.13
+
+[![XR18_Bild](../images/XR18_small.jpg "XR18"){ align=right }](https://www.thomann.de/de/behringer_x_air_xr18.htm)
 Das XR18 dient sowohl als Mischpult, als auch als Audiointerface.  
 Bedient wird es außschließlich über Software:
 
