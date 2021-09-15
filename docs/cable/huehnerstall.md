@@ -10,7 +10,7 @@
 
 ## Verkabelung
 
-### [XR18](/devices/#XR18)
+### [XR18](../../devices/mixer/#xr18)
 
 #### XR18_Input
 
@@ -26,9 +26,9 @@
 | **Stecker** | Drums | <span style="color:#ffc800">KP1 Orange</span> | <span style="color:#0008ff">KP1 Blau</span> | <span style="color:#f6ff00">KP1 Gelb</span> | Voc 1 | KP1 Clear | <span style="color:#33FF00">KP1 Hellgrün</span> | <span style="color:#003300">KP2 Dunkelgrün</span> |
 |  **Ziel**   | Drums |                     Bass                      |                    Git 1                    |                    Git 2                    | Voc 1 |   Voc 2   |                      FOH L                      |                       FOH R                       |
 
-### [Kopfhörerverstärker](/devices/#kopfhorervestarker)
+### [Kopfhörerverstärker](../../devices/headamp/#kopfhorervestarker)
 
-Der [Kopfhörerverstärker](/devices/#kopfhorervestarker) hat vier Eingänge die beliebig auf sechs Ausgänge geroutet werden können. Siehe Bild
+Der [Kopfhörerverstärker](../../devices/headamp/#kopfhorervestarker) hat vier Eingänge die beliebig auf sechs Ausgänge geroutet werden können. Siehe Bild
 
 #### HA_Input
 
@@ -39,13 +39,13 @@ Der [Kopfhörerverstärker](/devices/#kopfhorervestarker) hat vier Eingänge die
 
 #### HA_Output
 
-Die Wahl der [Buchse](/devices/#buchse) ist egal, mit der Wahl des [Channel](/devices/#channel) kann eine Quelle ausgewählt werden
+Die Wahl der [Buchse](../../devices/#buchse) ist egal, mit der Wahl des [Channel](../../devices/#channel) kann eine Quelle ausgewählt werden
 
 | **Channel** |   1   |   2   |   3   |   4   |
 | :---------: | :---: | :---: | :---: | :---: |
 |  **Ziel**   |  FOH  | Git 2 | Voc 2 |       |
 
-### [SBA, analoge 6 Wege Stagebox](/devices/#analoge-stagebox)
+### [SBA, analoge 6 Wege Stagebox](../../devices/stagebox/#analoge-stagebox)
 
 > Die Stagebox wird genutzt um Inputs an das XR18 weiterzureichen
 
@@ -67,7 +67,7 @@ XLR Male Buchse
 | **XLR_Buchse** | Bass  | Gitarre 1 | Gitarre 2 |       | Vocals 2 | Bonus |
 |    **Ziel**    | Bass  | Gitarre 1 | Gitarre 2 |       | Vocals 2 | Bonus |
 
-### [KP1 XLR -> XLR Kabelpeitsche](/devices/#kabelpeitsche-xlr-xlr)
+### [KP1 XLR -> XLR Kabelpeitsche](../../devices/stagebox/#kabelpeitsche-xlr-xlr)
 
 #### KP1_Input
 
@@ -87,7 +87,7 @@ XLR Male
 | **XLR_Stecker** | <span style="color:#33FF00">KP2 Hellgrün</span> | <span style="color:#003300">KP2 Dunkelgrün</span> | <span style="color:#f6ff00">KP2 Gelb</span> | KP2 Clear |                     Bass                      |                    Git 1                    |       |       |
 |    **Ziel**     |                      FOH L                      |                       FOL R                       |                    Git 2                    |   Voc 2   |                     Bass                      |                    Git 1                    |       |       |
 
-### [KP2 XLR -> Klinke Kabelpeitsche](/devices/#kabelpeitsche-xlr-trsklinke)
+### [KP2 XLR -> Klinke Kabelpeitsche](../../devices/stagebox/#kabelpeitsche-xlr-trsklinke)
 
 #### KP2_Input
 
