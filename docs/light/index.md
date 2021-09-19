@@ -40,3 +40,6 @@ Um ein angenehmeres Licht zu haben sind flexible LED Streifen an, mit Dämmstoff
 
     === "PC Mode"
         Solltest du an einem DesktopPc oder Laptop sein, unbedingt drücken, macht alles übersichtlicher
+
+
+        

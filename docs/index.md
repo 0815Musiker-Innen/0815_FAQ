@@ -19,3 +19,4 @@ Hier findest du vor allen Dingen Infos zur Technik. Dies umfasst die Verkabelung
 !!! bug
     "Es heißt seid, nicht seidt und mir fehlt auch noch die Info wo ich meine Jacke ablegen kann :( "  
     Da scheint sich ein Fehler eingeschlichen zu haben. [Hier](home/diy.md) findest du Infos wie du am besten Fehler und Ergänzungen weitergeben kannst. Und [hier](home/aufbau.md) wird dir erklärt wie die FAQ funktioniert.  
+

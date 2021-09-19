@@ -54,3 +54,4 @@ Ein Channelstrip im Detail:
     - "Mute": Hiermit schaltest du das jeweilige Instrument stumm
     - "On": Hiermit schaltest du das jeweilige Instrument "scharf"/an
     - "Solo": Aktivierst du Solo, werden alle anderen Instrumente stumm geschalten und du hörst nur noch das entsprechende Instrument
+

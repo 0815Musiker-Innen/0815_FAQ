@@ -12,4 +12,5 @@ Github ist die Plattform auf der wir das FAQ Bearbeitungsprojekt speichern. Zus√
 - Mit einem Git lassen sich Versionen eines Projekts verwalten
 
 Weiter bin ich noch nicht gekommen, bitte lest euch selbst ein.
-www.github.com
+[www.github.com](https://www.github.com)
+

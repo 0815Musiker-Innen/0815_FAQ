@@ -25,3 +25,4 @@ Die wahrscheinlich wichtigste Funktion auf der Seite. Diese findet ihr oben rech
 
 Einfach mal ausprobieren
 ![DarkMode](../images/darkMode.png)
+
