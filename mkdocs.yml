@@ -33,7 +33,6 @@ theme:
   name: material
   features:
     - header.autohide
-    - navigation.instant
     - navigation.tracking
     - navigation.top
     - navigation.tabs

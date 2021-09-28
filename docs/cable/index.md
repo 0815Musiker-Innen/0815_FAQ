@@ -14,4 +14,3 @@ Diese Seite dient als Anhaltspunkt wie Kabel verlegt wurden und was sich dabei g
 ![Tag](../images/Tag_small.jpg "Tag"){ align=right }
 Mit diesen Tags werden Kabel an beiden Enden markiert. Pro Raum soll eine Tag-ID nur einmal genutzt werden.  
 Beispiele für Tag-IDs sind "Voc 1 INPUT", "Bass INPUT", "Voc 2 OUTPUT", etc.
-

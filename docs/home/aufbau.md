@@ -1,11 +1,5 @@
 # Aufbau der FAQ
 
-- [Aufbau der FAQ](#aufbau-der-faq)
-  - [Format](#format)
-  - [Funktionen](#funktionen)
-    - [Suche](#suche)
-    - [Erscheinungsbild](#erscheinungsbild)
-
 ## Format
 
 Die FAQ wird online als Website bereitgestellt. Eine Offlinevariante soll im Bedarfsfall im Bunker zur Verfügung gestellt werden.  
@@ -21,8 +15,12 @@ Wenn ihr euch in die Gestaltung der FAQ miteinbringen möchtet, lest euch bitte 
 
 Die wahrscheinlich wichtigste Funktion auf der Seite. Diese findet ihr oben rechts ![SUFU](../images/suchfunktion.png)
 
+<p>
+</p>
+
 ### Erscheinungsbild
 
-Einfach mal ausprobieren
-![DarkMode](../images/darkMode.png)
+![DarkMode](../images/darkMode_small.png){ align=right }
+
+Einfach mal ausprobieren  
 

@@ -2,11 +2,6 @@
 
 *Stand 22.08.2021*
 
-- [Funktionen](#funktionen)
-  - [Top der Seite](#top-der-seite)
-  - [Einstellungen](#einstellungen)
-  - [Panel](#panel)
-
 ## Top der Seite  
 
 ![Hier sollte ein Bild sein](../images/Top.png "Top/Header")
